@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/FrontMentor01/static/js/main.15b8461c.js",
+    "static/js/58.2583b726.js": "/FrontMentor01/static/js/58.2583b726.js",
+    "favicon.ico": "/FrontMentor01/favicon.ico",
+    "index.html": "/FrontMentor01/index.html",
+    "favicon-32.png": "/FrontMentor01/favicon-32.png",
+    "favicon-16.png": "/FrontMentor01/favicon-16.png",
+    "manifest.json": "/FrontMentor01/manifest.json",
+    "serve.json": "/FrontMentor01/serve.json",
+    "main.15b8461c.js.map": "/FrontMentor01/static/js/main.15b8461c.js.map",
+    "58.2583b726.js.map": "/FrontMentor01/static/js/58.2583b726.js.map"
+  },
+  "entrypoints": [
+    "static/js/58.2583b726.js",
+    "static/js/main.15b8461c.js"
+  ]
+}

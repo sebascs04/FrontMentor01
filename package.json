@@ -6,7 +6,9 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "deploy": "gh-pages -d web-build",
+    "predeploy": "expo export:web"
   },
   "dependencies": {
     "expo": "~49.0.11",
@@ -19,5 +21,6 @@
   "devDependencies": {
     "@babel/core": "^7.20.0"
   },
-  "private": true
+  "private": true,
+  "homepage": "http://sebascs04.github.io/FrontMentor01"
 }
